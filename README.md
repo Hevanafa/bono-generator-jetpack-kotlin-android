@@ -5,7 +5,7 @@ Also a way to learn how to do numeric input & validation.
 
 ## Preview
 
-[preview image]
+![Preview Image](./preview.png)
 
 ## Building
 
